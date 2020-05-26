@@ -1,6 +1,6 @@
 n = int(input())
 
-print(n**2)
+print(pow(n))
 
 def pow(n):
     result = n**2
