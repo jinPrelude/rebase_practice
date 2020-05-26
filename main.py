@@ -1,4 +1,4 @@
-n = int(input())
+n = int(input("ipnut number"))
 
 print(pow(n))
 
